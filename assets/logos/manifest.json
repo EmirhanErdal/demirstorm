@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "socar",
+    "name": "SOCAR",
+    "file": "socar.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_of_SOCAR.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Wikimedia Commons 'Logo of SOCAR.svg' (current flame + wordmark). Black wordmark: low contrast in original colours on dark bg."
+  },
+  {
+    "slug": "tecnicas-reunidas",
+    "name": "Técnicas Reunidas",
+    "file": "tecnicas-reunidas.svg",
+    "source": "https://www.tecnicasreunidas.es/wp-content/uploads/2021/05/Logo-TR-completo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official site, current 'tr' monogram + TECNICAS REUNIDAS. Illustrator metadata stripped (408KB -> 5KB)."
+  },
+  {
+    "slug": "maleik",
+    "name": "TN Maleik Petrokimya",
+    "file": "maleik.webp",
+    "source": "https://www.tnmaleik.com/img/logo/logo_1774622006.png",
+    "kind": "webp",
+    "hasBackgroundBox": false,
+    "notes": "Official site PNG 2932x901, transparent. Dark-background variant: 'maleik Petrokimya' wordmark is WHITE (only the green/red M is coloured), so it is invisible on white. No vector available (gradient mark). 26.10.2026: wordmark recoloured to #1f2433 for white tiles."
+  },
+  {
+    "slug": "enka",
+    "name": "ENKA",
+    "file": "enka.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Enka_logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Commons, navy wordmark. Navy is low contrast in original colours on dark bg (enka.com itself uses a white version)."
+  },
+  {
+    "slug": "radisson",
+    "name": "Radisson Hotels",
+    "file": "radisson.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/74/Radisson_Hotels_logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Commons 'Radisson Hotels logo.svg' (RH monogram, current master brand, grey). Alternatives on Commons: Radisson Hotel Group / Radisson Blu if the project was a specific sub-brand."
+  },
+  {
+    "slug": "ravago",
+    "name": "Ravago",
+    "file": "ravago.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ravago-logo-rgb-72dpi.png",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Vectorised (potrace, single blue #0245ae) from the Commons 522x585 PNG; ravago.com blocks automated access. Tall/stacked logo (aspect ~0.9)."
+  },
+  {
+    "slug": "petkim",
+    "name": "PETKİM",
+    "file": "petkim.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/PETK%C4%B0M_logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Commons, current SOCAR-flame PETKİM logo (catalog shows the old 'P' logo). Black wordmark."
+  },
+  {
+    "slug": "sasa",
+    "name": "SASA Polyester",
+    "file": "sasa.svg",
+    "source": "https://www.sasa.com.tr/Themes/sasa/assets/sasa-images/SASA.png",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Vectorised (single colour #2b2b80) from the official 853px PNG."
+  },
+  {
+    "slug": "aygaz",
+    "name": "AYGAZ",
+    "file": "aygaz.svg",
+    "source": "https://www.aygaz.com.tr/assets/icons/aygaz-logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official current wordmark (blue letters, no box; the catalog's blue-box form is older)."
+  },
+  {
+    "slug": "habas",
+    "name": "HABAŞ",
+    "file": "habas.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Haba%C5%9F.svg",
+    "kind": "svg",
+    "hasBackgroundBox": true,
+    "notes": "Commons. Blue box with red HABAŞ in a white oval + 'Hizmet·Kalite·Güven' tagline below. White silhouette becomes a solid box: show in original colours."
+  },
+  {
+    "slug": "kolin",
+    "name": "KOLİN",
+    "file": "kolin.svg",
+    "source": "https://www.kolin.com.tr/Templates/Default/assets/img/logo@2x.png",
+    "kind": "svg",
+    "hasBackgroundBox": true,
+    "notes": "Vectorised (4 colours) from the official 346px PNG (the box logo currently in kolin.com.tr header). Dark box with grey squares + yellow KOLİN: silhouette is a solid box."
+  },
+  {
+    "slug": "limak",
+    "name": "Limak",
+    "file": "limak.svg",
+    "source": "https://irp.cdn-website.com/11191c87/dms3rep/multi/Limak-Logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official Limak Hotels SVG (limakhotels.com); kept only the Limak mark + wordmark path, removed 'International Hotels & Resorts'. limak.com.tr was unreachable."
+  },
+  {
+    "slug": "kalyon",
+    "name": "Kalyon",
+    "file": "kalyon.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kalyon_Holding_logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Commons 'Kalyon Holding logo.svg', navy."
+  },
+  {
+    "slug": "cengiz",
+    "name": "Cengiz Holding",
+    "file": "cengiz.svg",
+    "source": "https://www.cengizholding.com.tr/Content/images/icons/logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official site SVG (navy + cyan)."
+  },
+  {
+    "slug": "air-liquide",
+    "name": "Air Liquide",
+    "file": "air-liquide.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Air_Liquide_-_logo_%28France%2C_2017%29.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Commons, current (2017) logo."
+  },
+  {
+    "slug": "milangaz",
+    "name": "Milangaz",
+    "file": "milangaz.svg",
+    "source": "https://milangaz.com.tr/wp-content/uploads/2023/08/milangaz_logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official current logo (2023)."
+  },
+  {
+    "slug": "eren-enerji",
+    "name": "Eren Enerji",
+    "file": "eren-enerji.svg",
+    "source": "https://www.erenenerji.com.tr/uploads/site/logo-black.png",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Vectorised (blue + near-black) from the official 150x77 PNG, traced at x8. Good at logo-wall sizes; 'ENERJİ' is near-black so it disappears in original colours on dark bg."
+  },
+  {
+    "slug": "petroyag",
+    "name": "Petroyağ",
+    "file": "petroyag.svg",
+    "source": "https://www.petroyag.com/assets/images/logos/logo-green.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official green SVG (no 'LUBRICANTS' line). Contains two small embedded PNG highlights inside the ball (self-contained data URIs)."
+  },
+  {
+    "slug": "alpet",
+    "name": "ALPET",
+    "file": "alpet.svg",
+    "source": "https://www.alpet.com.tr/assets/image/footer-logo.png",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Vectorised (green + blue) from the official 276px PNG; ~0.1px clipped arc on the circle restored. Current logo (catalog's blue-box form is old). The white 'A' inside the circle is a transparent knockout."
+  },
+  {
+    "slug": "chryso",
+    "name": "CHRYSO",
+    "file": "chryso.svg",
+    "source": "https://www.chryso.com.tr/wp-content/themes/chryso-v2/dist/images/logo-colored_1019c21f.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official current 'chryso SAINT-GOBAIN' logo (catalog shows the old CHRYSO wordmark)."
+  },
+  {
+    "slug": "parex",
+    "name": "PAREX",
+    "file": "parex.svg",
+    "source": "https://dynamicmedia.sika.com/adobe/assets/urn:aaid:aem:70dea728-1414-4d84-98f9-e25869439bd6/as/us-PAREX-Logo-Black-01211694.png?width=1600",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "PAREX (Sika/Saint-Gobain mortar brand) black logo from parex.com, vectorised. NOTE: Commons 'Parex Logo.png' and parex.com.tr are a different (purple) Parex brand and were rejected."
+  },
+  {
+    "slug": "ode",
+    "name": "ODE Yalıtım",
+    "file": "ode.svg",
+    "source": "https://www.ode.com.tr/project/_resources/images/logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official SVG, yellow ODE + 'INSULATES THE FUTURE' tagline (tagline is very small)."
+  },
+  {
+    "slug": "sapro",
+    "name": "Sapro",
+    "file": "sapro.svg",
+    "source": "https://www.sapro.com.tr/uploads/images/large/1666702522_sapro-logo.svg",
+    "kind": "svg",
+    "hasBackgroundBox": false,
+    "notes": "Official SVG (light-blue swoosh + dark grey wordmark)."
+  },
+  {
+    "slug": "nemport",
+    "name": "Nemport Liman İşletmeleri",
+    "file": "nemport.svg",
+    "source": "https://www.nemport.com.tr/images/logo/logo.png",
+    "kind": "svg",
+    "hasBackgroundBox": true,
+    "notes": "WEAK SOURCE: only a 136x39 PNG exists on nemport.com.tr; vectorised at x8 (red box + white serif text). Acceptable at small sizes; silhouette is a solid box."
+  }
+]
